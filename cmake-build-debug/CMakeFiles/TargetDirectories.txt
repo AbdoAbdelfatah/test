@@ -1,0 +1,3 @@
+C:/Users/abdofatah/Git_Abdo/cmake-build-debug/CMakeFiles/Git_Abdo.dir
+C:/Users/abdofatah/Git_Abdo/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/abdofatah/Git_Abdo/cmake-build-debug/CMakeFiles/rebuild_cache.dir
